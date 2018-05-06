@@ -1,2 +1,3 @@
 # studygit
-a demo of study git
+a demo of study git.
+just a test.
